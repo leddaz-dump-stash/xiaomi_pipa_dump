@@ -1,0 +1,13 @@
+modem.img
+boot.img
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
+cust/app/customized/partner-com.ss.android.ugc.aweme_15/partner-com.ss.android.ugc.aweme_15.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/app/VoiceAssistAndroidT/VoiceAssistAndroidT.apk
+product/data-app/MIMediaEditor/MIMediaEditor.apk
+product/data-app/SmartHome/SmartHome.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/MIUIBrowserPad/MIUIBrowserPad.apk
+product/priv-app/MiuiCamera/MiuiCamera.apk
+product/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk
